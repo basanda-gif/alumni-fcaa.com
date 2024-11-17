@@ -3,7 +3,7 @@
 # Welcome to the Fort Cox Alumni Association
 The Fort Cox Alumni Association is a vibrant network of graduates dedicated to staying connected with their alma mater and each other. Whether you're looking to reconnect, contribute, or support the ongoing success of Fort Cox, the Alumni Association offers a platform for meaningful engagement.
 
-**Membership**<br/>
+##**Membership**<br/>
 We are proud to invite all former students of Fort Cox who have received an Advanced Diploma or Diploma to join our Alumni Association. As a member, you’ll stay linked to your alma mater and be part of a growing community of graduates.
 
 **How to Become a Member**<br/>
