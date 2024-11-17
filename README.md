@@ -49,5 +49,6 @@ We look forward to welcoming you back to Fort Cox!
 
 **Policy of the Alumni **
 [Institution Alumni Policy[1].pdf](https://github.com/user-attachments/files/17791959/Institution.Alumni.Policy.1.pdf)
-
-
+---------------------------------------------------------------------------------------------------------------------------------
+<p style="page-break-after: always"></p>
+-------------------------------------------------------------------------------------------------------------------------------------
