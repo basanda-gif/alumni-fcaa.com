@@ -49,8 +49,8 @@ We look forward to welcoming you back to Fort Cox!
 
 **Policy of the Alumni**
 [Institution Alumni Policy[1].pdf](https://github.com/user-attachments/files/17791959/Institution.Alumni.Policy.1.pdf)
----------------------------------------------------------------------------------------------------------------------------------
+
 <p style="page-break-after: always"></p>
--------------------------------------------------------------------------------------------------------------------------------------
+
 **Alumni Concept Note**
 [FACC Development Concept Note 04 August 2023_Final_update.pdf](https://github.com/user-attachments/files/17792167/FACC.Development.Concept.Note.04.August.2023_Final_update.pdf)
