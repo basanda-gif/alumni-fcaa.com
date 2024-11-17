@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/89a3ca52-dabd-4aef-826b-327b758fd750)
 # Welcome to the Fort Cox Alumni Association
 The Fort Cox Alumni Association is a vibrant network of graduates dedicated to staying connected with their alma mater and each other. Whether you're looking to reconnect, contribute, or support the ongoing success of Fort Cox, the Alumni Association offers a platform for meaningful engagement.
 
