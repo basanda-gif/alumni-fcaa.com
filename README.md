@@ -41,11 +41,13 @@ Receive exclusive access to alumni events, networking opportunities, and profess
 Have the chance to give back to the Institute that helped shape your career.
 Be a part of an active and engaged community that supports the success of Fort Cox and its students.
 <br/>
-**Join Us Today[Institution Alumni Policy[1].pdf](https://github.com/user-attachments/files/17791959/Institution.Alumni.Policy.1.pdf)
-!!!**
+**Join Us Today!!!**
 <br/>
 Become part of a dynamic and supportive alumni community. Reconnect with Fort Cox and help make a lasting impact on the future of the Institute. To join or for more information, please contact us or fill out our membership registration form.
 <br/>
 We look forward to welcoming you back to Fort Cox!
+
+**Policy of the Alumni **
+[Institution Alumni Policy[1].pdf](https://github.com/user-attachments/files/17791959/Institution.Alumni.Policy.1.pdf)
 
 
