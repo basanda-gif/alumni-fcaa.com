@@ -29,7 +29,7 @@ The Fort Cox Alumni Association is committed to helping both the Institute and i
 *Fostering Pride and Loyalty** <br/>
 *Encouraging Contributions** <br/>
 *Supporting the Institute’s Mission** <br/>
-*Promoting a Positive Image of Fort Cox**<br/>
+*Promoting a Positive Image of Fort Cox** <br/>
 *Advocating Fort Cox’s Values** <br/>
 <br/>
 
@@ -47,8 +47,10 @@ Become part of a dynamic and supportive alumni community. Reconnect with Fort Co
 <br/>
 We look forward to welcoming you back to Fort Cox!
 
-**Policy of the Alumni **
+**Policy of the Alumni**
 [Institution Alumni Policy[1].pdf](https://github.com/user-attachments/files/17791959/Institution.Alumni.Policy.1.pdf)
 ---------------------------------------------------------------------------------------------------------------------------------
 <p style="page-break-after: always"></p>
 -------------------------------------------------------------------------------------------------------------------------------------
+**Alumni Concept Note**
+[FACC Development Concept Note 04 August 2023_Final_update.pdf](https://github.com/user-attachments/files/17792167/FACC.Development.Concept.Note.04.August.2023_Final_update.pdf)
