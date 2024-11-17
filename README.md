@@ -1,12 +1,12 @@
 ![image](https://github.com/user-attachments/assets/e58a3768-da26-4046-b9d1-74af4ef82866)
 
-# Welcome to the Fort Cox Alumni Association
+# Welcome to the Fort Cox Alumni Association<br/>
 The Fort Cox Alumni Association is a vibrant network of graduates dedicated to staying connected with their alma mater and each other. Whether you're looking to reconnect, contribute, or support the ongoing success of Fort Cox, the Alumni Association offers a platform for meaningful engagement.
 
-<h1>**Membership**<br/><h1>
+## **Membership**<br/>
 We are proud to invite all former students of Fort Cox who have received an Advanced Diploma or Diploma to join our Alumni Association. As a member, you’ll stay linked to your alma mater and be part of a growing community of graduates.
 
-<h1>**How to Become a Member**<br/><h1>
+**How to Become a Member**<br/>
 To become a registered member of the Alumni Association, former pupils must:
 
 Pay a Registration Fee: A once-off fee of R100.
