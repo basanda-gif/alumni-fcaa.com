@@ -23,17 +23,19 @@ Giving Back: Offering opportunities for alumni to contribute to Fort Cox’s gro
 **Our Goals and Objectives**<br/>
 The Fort Cox Alumni Association is committed to helping both the Institute and its graduates thrive. Our objectives include:
 
-**Enhancing the Image of the Association:** We strive to position the Alumni Association as an important stakeholder within the Fort Cox community and beyond, working to increase its visibility and influence.
+**Enhancing the Image of the Association** 
+**Fostering Pride and Loyalty** 
+**Encouraging Contributions**
+**Supporting the Institute’s Mission**
+**Promoting a Positive Image of Fort Cox**
+**Advocating Fort Cox’s Values** 
 
-**Fostering Pride and Loyalty:** Through effective communication, we aim to foster a sense of loyalty and pride in Fort Cox among alumni, encouraging them to become ambassadors for the Institute.
-
-**Encouraging Contributions:** We offer a platform for alumni to contribute in meaningful ways to the advancement of Fort Cox, whether through financial support, professional expertise, or community involvement.
-
-**Supporting the Institute’s Mission:** The Alumni Association works to align alumni efforts with the mission and goals of Fort Cox, ensuring that alumni remain valuable assets to the Institute.
-
-**Promoting a Positive Image of Fort Cox:** We are dedicated to maintaining and promoting the positive image and ideals of Fort Cox, both within the community and beyond.
-
-**Advocating Fort Cox’s Values:** We promote the core values and purpose of Fort Cox to our wider network, helping to ensure that the Institute’s mission is understood and supported by key constituencies.
+We strive to position the Alumni Association as an important stakeholder within the Fort Cox community and beyond, working to increase its visibility and influence.
+Through effective communication, we aim to foster a sense of loyalty and pride in Fort Cox among alumni, encouraging them to become ambassadors for the Institute.
+We offer a platform for alumni to contribute in meaningful ways to the advancement of Fort Cox, whether through financial support, professional expertise, or community involvement.
+The Alumni Association works to align alumni efforts with the mission and goals of Fort Cox, ensuring that alumni remain valuable assets to the Institute.
+We are dedicated to maintaining and promoting the positive image and ideals of Fort Cox, both within the community and beyond.
+We promote the core values and purpose of Fort Cox to our wider network, helping to ensure that the Institute’s mission is understood and supported by key constituencies.
 
 **Why Join the Alumni Association?**<br/>
 _As a member of the Fort Cox Alumni Association, you will:_****
